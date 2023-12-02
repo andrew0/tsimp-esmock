@@ -385,14 +385,14 @@ __metadata:
     "@types/node": "npm:^20.10.2"
     esmock: "npm:^2.6.0"
     prettier: "npm:^3.1.0"
-    tsimp: "git@github.com:andrew0/tsimp.git#commit=53a3a7af119cff6cfa5d05c6ceb34ab0222ec47a"
+    tsimp: "git@github.com:andrew0/tsimp.git#commit=b0a56e02eed184eeac2b7fd4d9d67fe0ab50ba04"
     typescript: "npm:^5.3.2"
   languageName: unknown
   linkType: soft
 
-"tsimp@git@github.com:andrew0/tsimp.git#commit=53a3a7af119cff6cfa5d05c6ceb34ab0222ec47a":
+"tsimp@git@github.com:andrew0/tsimp.git#commit=b0a56e02eed184eeac2b7fd4d9d67fe0ab50ba04":
   version: 2.0.9
-  resolution: "tsimp@git@github.com:andrew0/tsimp.git#commit=53a3a7af119cff6cfa5d05c6ceb34ab0222ec47a"
+  resolution: "tsimp@git@github.com:andrew0/tsimp.git#commit=b0a56e02eed184eeac2b7fd4d9d67fe0ab50ba04"
   dependencies:
     "@isaacs/cached": "npm:^1.0.1"
     "@isaacs/catcher": "npm:^1.0.4"
@@ -407,7 +407,7 @@ __metadata:
     typescript: ^5.1.0
   bin:
     tsimp: dist/esm/bin.mjs
-  checksum: 49e0da7008af353465edc49b903803c029328b8db95c036e40f30e4237a835623d1caa90a7e8a68e08441310196eb7f98a34c5069d3ad2e229da66b59d4cdef4
+  checksum: 4629ab4cc2ee0f5665c02b6ecc1a8378d1be2006c4dd131bb4a63bbb08d02a799ad47e60670d68e306d09f48b57bf8e3128a9de2e932f3297e0ff7b0764ec12d
   languageName: node
   linkType: hard
 
